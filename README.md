@@ -7,7 +7,7 @@
 - According to 2010 census figures that group the Westchester Square area with Unionport, 6.5 percent of the 27, 248 residents were white, 15.5 percent African-American, 10.7 percent Asian and 62.1 percent Hispanic.
 - The census tracts encompassing this neighborhood are as follows: 0256.00; 0204.00; 0206.00; 0202.00; 0200.00; 0096.00
 
-![](https://raw.githubusercontent.com/shellwayne01/shellwayne01.github.io/master/WestchesterSquare.png)
+![](https://raw.githubusercontent.com/shellwayne01/WestchesterSquare/master/WestchesterSquare.png)
 
 ### Location
 - About 14mi. away from Federal Hall (40min drive or 1 hour 10min subway commute).
@@ -31,7 +31,7 @@ BLANKPLATE | 256
 
 ### Top 311 Service Complaints :sweat:
 
-![](https://raw.githubusercontent.com/shellwayne01/shellwayne01.github.io/master/hoodMapComplaints.png)
+![](https://raw.githubusercontent.com/shellwayne01/WestchesterSquare/master/hoodMapComplaints.png)
 
 Complaint Type | # of Complaints
 -------------- | ----------------
@@ -58,7 +58,7 @@ Service Complaints encompass all of zip codes 10461 and 10462
 - [x] map of where 311 complaints occurred
 
 
-[Github Map](https://github.com/shellwayne01/shellwayne01.github.io/blob/master/WestchesterSquare.geojson)
+[Github Map](https://github.com/shellwayne01/WestchesterSquare/blob/master/WestchesterSquare.geojson)
 
 **Other Maps**
 ```
